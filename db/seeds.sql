@@ -1,3 +1,4 @@
+//
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Hercules', 'Boxer', '07090', 75, 100, 75, 75, 50, 25, 50, 25, 50, '1boxer.png');
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Zeus', 'Boxer', '34893', 75, 100, 75, 75, 50, 25, 50, 25, 50, '2boxer.png');
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Riley', 'Boxer', '75849', 75, 100, 75, 75, 50, 25, 50, 25, 50, '3boxer.png');
